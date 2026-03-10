@@ -22,13 +22,12 @@ This project demonstrates how to create, configure, and manage custom servicecs 
     sudo nano /etc/systemd/my-network-monitor.service
 
     mkdir network-log/log.txt
-![step1]()
 
 ### step2: Reload Systemd
 
     sudo systemctl daemon-reload
     
-![step2]()
+![step2](./images/daemon-reload.png)
 
 ### step3: Start the Service
 

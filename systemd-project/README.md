@@ -79,7 +79,7 @@ This project demonstrates how to create, configure, and manage custom servicecs 
 ![typo-correction](./images/typo-correction.png)
 
 
-### Solution2:**Corrected the error by creating a network-log in / directory (/network-log) **
+### Solution2: **Corrected the error by creating a network-log in / directory (/network-log) **
 ```
 mkdir /network
 systemctl start my-network-monitor.service
